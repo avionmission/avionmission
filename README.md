@@ -3,17 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/avionmission" target="blank"><img src="https://img.shields.io/twitter/follow/avionmission?logo=twitter&style=for-the-badge" alt="avionmission" /></a> </p>
 
-- 🔭 I’m currently working on **A React Native Mobile App.**
-
-- 🌱 I’m currently learning **ML & Ai**
-
-- 👨‍💻 All of my projects are available at [https://www.avionmission.com](https://www.avionmission.com)
-
-- 📝 I regularly write articles on [https://www.avionmission.com/blog](https://www.avionmission.com/blog)
-
-- 💬 Ask me about **MVP App Development, React Native, Flutter**
-
-- 📫 How to reach me **avionmission@gmail.com**
+Building in Public: https://avionmission.substack.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
